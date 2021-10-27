@@ -1,1 +1,3 @@
 Apresentação Trilha Git.
+
+Atualizar repositório local com o remoto. 
